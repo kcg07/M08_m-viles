@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UF1</string>
+    <string name="m_n">Món!</string>
+    <string name="hola">Hola</string>
+    <string name="t_tulo">Título</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="matriculaci_n">Matriculación</string>
+</resources>

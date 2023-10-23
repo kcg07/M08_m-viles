@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UF1"
+        tools:targetApi="31">
+        <activity
+            android:name=".Exercici24"
+            android:exported="false" />
+        <activity
+            android:name=".Exercici19"
+            android:exported="false" />
+        <activity
+            android:name=".Exercici18"
+            android:exported="false" />
+        <activity
+            android:name=".Exercici17"
+            android:exported="false" />
+        <activity
+            android:name=".Exercici16_GridLayout"
+            android:exported="false" />
+        <activity
+            android:name=".Exercici16"
+            android:exported="false" />
+        <activity
+            android:name=".Exercici15"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici14"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici13"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici12_relative"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici12_constraint"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici12_linear"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici11"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici10"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici9"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici8"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici7"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici6"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici5"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici4"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici2"
+            android:exported="true" />
+        <activity
+            android:name=".Exercici1"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
